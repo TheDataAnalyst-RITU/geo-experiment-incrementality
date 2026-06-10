@@ -10,7 +10,7 @@ The platform-reported ROAS is famously over-optimistic for display — it credit
 
 ## What's inside
 
-`ota_geo_experiment.xlsx` has six tabs:
+[`ota_geo_experiment.xlsx`](https://github.com/TheDataAnalyst-RITU/geo-experiment-incrementality/blob/main/OTA_geo_experiment.xlsx) has six tabs:
 
 **README** — the scenario, design choices, and a list of exercises to work through. Start here when you open the file.
 
