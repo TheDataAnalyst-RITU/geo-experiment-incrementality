@@ -1,0 +1,81 @@
+city,group,week,period,spend
+Da Nang,Treatment,-4,Pre,10000
+Da Nang,Treatment,-3,Pre,10000
+Da Nang,Treatment,-2,Pre,10000
+Da Nang,Treatment,-1,Pre,10000
+Da Nang,Treatment,1,Test,15000
+Da Nang,Treatment,2,Test,15000
+Da Nang,Treatment,3,Test,15000
+Da Nang,Treatment,4,Test,15000
+Da Nang,Treatment,5,Test,15000
+Da Nang,Treatment,6,Test,15000
+Hai Phong,Control,-4,Pre,10000
+Hai Phong,Control,-3,Pre,10000
+Hai Phong,Control,-2,Pre,10000
+Hai Phong,Control,-1,Pre,10000
+Hai Phong,Control,1,Test,10000
+Hai Phong,Control,2,Test,10000
+Hai Phong,Control,3,Test,10000
+Hai Phong,Control,4,Test,10000
+Hai Phong,Control,5,Test,10000
+Hai Phong,Control,6,Test,10000
+Can Tho,Treatment,-4,Pre,10000
+Can Tho,Treatment,-3,Pre,10000
+Can Tho,Treatment,-2,Pre,10000
+Can Tho,Treatment,-1,Pre,10000
+Can Tho,Treatment,1,Test,15000
+Can Tho,Treatment,2,Test,15000
+Can Tho,Treatment,3,Test,15000
+Can Tho,Treatment,4,Test,15000
+Can Tho,Treatment,5,Test,15000
+Can Tho,Treatment,6,Test,15000
+Nha Trang,Control,-4,Pre,10000
+Nha Trang,Control,-3,Pre,10000
+Nha Trang,Control,-2,Pre,10000
+Nha Trang,Control,-1,Pre,10000
+Nha Trang,Control,1,Test,10000
+Nha Trang,Control,2,Test,10000
+Nha Trang,Control,3,Test,10000
+Nha Trang,Control,4,Test,10000
+Nha Trang,Control,5,Test,10000
+Nha Trang,Control,6,Test,10000
+Hue,Treatment,-4,Pre,10000
+Hue,Treatment,-3,Pre,10000
+Hue,Treatment,-2,Pre,10000
+Hue,Treatment,-1,Pre,10000
+Hue,Treatment,1,Test,15000
+Hue,Treatment,2,Test,15000
+Hue,Treatment,3,Test,15000
+Hue,Treatment,4,Test,15000
+Hue,Treatment,5,Test,15000
+Hue,Treatment,6,Test,15000
+Vung Tau,Control,-4,Pre,10000
+Vung Tau,Control,-3,Pre,10000
+Vung Tau,Control,-2,Pre,10000
+Vung Tau,Control,-1,Pre,10000
+Vung Tau,Control,1,Test,10000
+Vung Tau,Control,2,Test,10000
+Vung Tau,Control,3,Test,10000
+Vung Tau,Control,4,Test,10000
+Vung Tau,Control,5,Test,10000
+Vung Tau,Control,6,Test,10000
+Quy Nhon,Treatment,-4,Pre,10000
+Quy Nhon,Treatment,-3,Pre,10000
+Quy Nhon,Treatment,-2,Pre,10000
+Quy Nhon,Treatment,-1,Pre,10000
+Quy Nhon,Treatment,1,Test,15000
+Quy Nhon,Treatment,2,Test,15000
+Quy Nhon,Treatment,3,Test,15000
+Quy Nhon,Treatment,4,Test,15000
+Quy Nhon,Treatment,5,Test,15000
+Quy Nhon,Treatment,6,Test,15000
+Buon Ma Thuot,Control,-4,Pre,10000
+Buon Ma Thuot,Control,-3,Pre,10000
+Buon Ma Thuot,Control,-2,Pre,10000
+Buon Ma Thuot,Control,-1,Pre,10000
+Buon Ma Thuot,Control,1,Test,10000
+Buon Ma Thuot,Control,2,Test,10000
+Buon Ma Thuot,Control,3,Test,10000
+Buon Ma Thuot,Control,4,Test,10000
+Buon Ma Thuot,Control,5,Test,10000
+Buon Ma Thuot,Control,6,Test,10000

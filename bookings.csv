@@ -1,0 +1,81 @@
+city,group,week,period,bookings
+Da Nang,Treatment,-4,Pre,3183
+Da Nang,Treatment,-3,Pre,3192
+Da Nang,Treatment,-2,Pre,3189
+Da Nang,Treatment,-1,Pre,3213
+Da Nang,Treatment,1,Test,3491
+Da Nang,Treatment,2,Test,3539
+Da Nang,Treatment,3,Test,3548
+Da Nang,Treatment,4,Test,3658
+Da Nang,Treatment,5,Test,3658
+Da Nang,Treatment,6,Test,3779
+Hai Phong,Control,-4,Pre,3356
+Hai Phong,Control,-3,Pre,3385
+Hai Phong,Control,-2,Pre,3365
+Hai Phong,Control,-1,Pre,3491
+Hai Phong,Control,1,Test,3515
+Hai Phong,Control,2,Test,3576
+Hai Phong,Control,3,Test,3651
+Hai Phong,Control,4,Test,3735
+Hai Phong,Control,5,Test,3731
+Hai Phong,Control,6,Test,3780
+Can Tho,Treatment,-4,Pre,3043
+Can Tho,Treatment,-3,Pre,2983
+Can Tho,Treatment,-2,Pre,3008
+Can Tho,Treatment,-1,Pre,3032
+Can Tho,Treatment,1,Test,3238
+Can Tho,Treatment,2,Test,3296
+Can Tho,Treatment,3,Test,3349
+Can Tho,Treatment,4,Test,3457
+Can Tho,Treatment,5,Test,3442
+Can Tho,Treatment,6,Test,3556
+Nha Trang,Control,-4,Pre,3113
+Nha Trang,Control,-3,Pre,3113
+Nha Trang,Control,-2,Pre,3080
+Nha Trang,Control,-1,Pre,3112
+Nha Trang,Control,1,Test,3199
+Nha Trang,Control,2,Test,3259
+Nha Trang,Control,3,Test,3334
+Nha Trang,Control,4,Test,3357
+Nha Trang,Control,5,Test,3377
+Nha Trang,Control,6,Test,3464
+Hue,Treatment,-4,Pre,2796
+Hue,Treatment,-3,Pre,2806
+Hue,Treatment,-2,Pre,2802
+Hue,Treatment,-1,Pre,2864
+Hue,Treatment,1,Test,3031
+Hue,Treatment,2,Test,3114
+Hue,Treatment,3,Test,3144
+Hue,Treatment,4,Test,3232
+Hue,Treatment,5,Test,3259
+Hue,Treatment,6,Test,3295
+Vung Tau,Control,-4,Pre,3043
+Vung Tau,Control,-3,Pre,2990
+Vung Tau,Control,-2,Pre,2969
+Vung Tau,Control,-1,Pre,3074
+Vung Tau,Control,1,Test,3104
+Vung Tau,Control,2,Test,3179
+Vung Tau,Control,3,Test,3169
+Vung Tau,Control,4,Test,3270
+Vung Tau,Control,5,Test,3309
+Vung Tau,Control,6,Test,3352
+Quy Nhon,Treatment,-4,Pre,2832
+Quy Nhon,Treatment,-3,Pre,2807
+Quy Nhon,Treatment,-2,Pre,2794
+Quy Nhon,Treatment,-1,Pre,2856
+Quy Nhon,Treatment,1,Test,3059
+Quy Nhon,Treatment,2,Test,3104
+Quy Nhon,Treatment,3,Test,3170
+Quy Nhon,Treatment,4,Test,3238
+Quy Nhon,Treatment,5,Test,3237
+Quy Nhon,Treatment,6,Test,3326
+Buon Ma Thuot,Control,-4,Pre,2862
+Buon Ma Thuot,Control,-3,Pre,2941
+Buon Ma Thuot,Control,-2,Pre,2890
+Buon Ma Thuot,Control,-1,Pre,2992
+Buon Ma Thuot,Control,1,Test,3059
+Buon Ma Thuot,Control,2,Test,3055
+Buon Ma Thuot,Control,3,Test,3093
+Buon Ma Thuot,Control,4,Test,3161
+Buon Ma Thuot,Control,5,Test,3134
+Buon Ma Thuot,Control,6,Test,3230
