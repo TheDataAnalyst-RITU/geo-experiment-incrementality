@@ -54,11 +54,11 @@ If you want to extend it, the most natural additions are: a statistical signific
 
 ## How I built it
 
-I wanted realistic-looking data to work with — proper week-to-week noise, a believable underlying market lift, a clear treatment effect to recover — without using any real business numbers. So I wrote a small Python script ([`generate_data.py`](https://github.com/TheDataAnalyst-RITU/geo-experiment-incrementality/blob/main/generate_data.py)) to produce synthetic weekly bookings and spend data. AI helped me think through the data generation logic so the numbers would be plausible rather than too clean. The script outputs [https://github.com/TheDataAnalyst-RITU/geo-experiment-incrementality/blob/main/bookings.csv] and [`spend.csv`](https://github.com/TheDataAnalyst-RITU/geo-experiment-incrementality/blob/main/spend.csv), which I imported into Excel.
+I wanted realistic-looking data to work with — proper week-to-week noise, a believable underlying market lift, a clear treatment effect to recover — without using any real business numbers. So I wrote a small Python script ([`generate_data.py`](https://github.com/TheDataAnalyst-RITU/geo-experiment-incrementality/blob/main/generate_data.py)) to produce synthetic weekly bookings and spend data. AI helped me think through the data generation logic so the numbers would be plausible rather than too clean. The script outputs [`bookings.csv`](https://github.com/TheDataAnalyst-RITU/geo-experiment-incrementality/blob/main/bookings.csv) and [`spend.csv`](https://github.com/TheDataAnalyst-RITU/geo-experiment-incrementality/blob/main/spend.csv), which I imported into Excel.
 
 Everything else — the workbook structure, the sheet design, every formula in the analysis tab, the sanity checks, the money translation, the interpretation, the recommendation — I built directly in Excel. The whole point of the exercise was to do the analysis myself; that's where the actual learning lives.
 
-The Python script uses a fixed random seed, so the data is fully reproducible. Run [`python generate_data.py`](https://github.com/TheDataAnalyst-RITU/geo-experiment-incrementality/blob/main/generate_data.py) and you'll get the same numbers I worked with.
+The Python script uses a fixed random seed, so the data is fully reproducible. Run python [`generate_data.py`](https://github.com/TheDataAnalyst-RITU/geo-experiment-incrementality/blob/main/generate_data.py) and you'll get the same numbers I worked with.
 
 ## Caveats
 
