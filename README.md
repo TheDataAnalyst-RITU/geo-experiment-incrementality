@@ -1,8 +1,8 @@
 # Geo Experiment & Incrementality — A Worked Example
 
-I built this workbook while preparing for a marketing analytics interview. I kept reading about Difference-in-Differences in textbooks and watching tutorial videos, but nothing really clicked until I sat down with actual data and worked the math myself. So I created the scenario, generated synthetic data, set up all the formulas in Excel, and turned it into the resource I wish I'd had when I started.
+I built this workbook to work through Difference-in-Differences end-to-end on a realistic marketing scenario. Reading about DiD in textbooks never quite clicked for me — what made it stick was sitting with synthetic data, setting up the formulas myself, and watching the gap between "what platforms claim" and "what's actually incremental" appear on a spreadsheet.
 
-I used AI as a thinking partner along the way — to sanity-check my formula logic, to push back on shaky reasoning, and to help me see edge cases I'd missed. The structure, the analytical choices, and the way the workbook teaches the concept are mine. The numbers are synthetic but designed to feel realistic.
+I used AI as a thinking partner along the way — to sanity-check my formula logic, to push back on shaky reasoning, and to surface edge cases I'd missed. The scenario, the analytical choices, and the way the workbook teaches the concept are mine.
 
 ## The scenario
 
@@ -12,7 +12,7 @@ The platform-reported ROAS is famously over-optimistic for display — it credit
 
 ## What's inside
 
-[`ota_geo_experiment.xlsx`](https://github.com/TheDataAnalyst-RITU/geo-experiment-incrementality/blob/main/OTA_geo_experiment.xlsx) has six tabs:
+`ota_geo_experiment.xlsx` has six tabs:
 
 **README** — the scenario, design choices, and a list of exercises to work through. Start here when you open the file.
 
@@ -50,7 +50,7 @@ The Difference-in-Differences method works by comparing the change in the treatm
 
 ## How to use this workbook
 
-If you're learning the concept, work through the exercises in the README tab in order — they walk you from parallel-trends checking through the final money translation. Try to explain each step out loud, as if presenting to a stakeholder. That's the muscle interviews actually test.
+Work through the exercises in the README tab in order — they walk you from parallel-trends checking through the final money translation. Try to explain each step out loud, as if presenting to a stakeholder.
 
 If you want to extend it, the most natural additions are: a statistical significance check (the DiD point estimate has uncertainty around it that I didn't quantify), a regression-based version with city and time fixed effects, or a synthetic-control version that blends multiple control regions into one custom counterfactual.
 
@@ -72,4 +72,4 @@ This is a generic OTA scenario. Any resemblance to a specific company's actual o
 
 ## License
 
-Free to use, fork, adapt, or share. If this helped you understand geo experiments or land an interview, I'd love to hear about it.
+Free to use, fork, adapt, or share.
